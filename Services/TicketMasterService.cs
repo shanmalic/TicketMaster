@@ -6,7 +6,7 @@ using TicketMaster.Services;
 public class TicketmasterService : ITicketmasterService
 {
     private readonly HttpClient _httpClient;
-    private const string ApiKey = "ewQLuuw8AU1pTc6yNN8KBGCBfeUGwvTk";
+    private const string ApiKey = "API_KEY";
     private const string BaseUrl = "https://app.ticketmaster.com/discovery/v2/";
 
     public TicketmasterService(HttpClient httpClient)
