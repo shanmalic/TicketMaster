@@ -1,0 +1,148 @@
+﻿@page "/events/{Name}"
+@using TicketMaster.Components.Models
+@using TicketMaster.Components.ViewModels
+@using TicketMaster.Services
+@inject ITicketmasterService TicketmasterService
+@inject NavigationManager NavigationManager
+
+
+@if(ViewModel.EventName == "")
+{
+	<p>Loading...</p>
+}
+else if (ViewModel.Events.Count == 0)
+{
+	<div class="d-flex justify-content-center">
+		<img src="images/not_found_frame_33408.svg" alt="Results Not Found" />
+	</div>
+}
+else
+{
+	var topImage = ViewModel.Events.FirstOrDefault()?.Images.FirstOrDefault()?.Url ?? "images/default-image.jpg";
+	<img src="@topImage" class="img-fluid mb-4" style="width: 100%; max-height: 400px; object-fit: cover;" />
+	<div class="d-flex justify-content-between align-items-center mb-4">
+		<h2 class="fw-bold">@ViewModel.EventName</h2>
+
+		@if (ViewModel.ExternalLinks != null)
+		{
+			<div class="d-flex justify-content-end align-items-start">
+
+
+				@{
+					var twitter = ViewModel.ExternalLinks.Twitter;
+					var youtube = ViewModel.ExternalLinks.Youtube;
+					var spotify = ViewModel.ExternalLinks.Spotify;
+					var website = ViewModel.ExternalLinks.Website;
+					var homepage = ViewModel.ExternalLinks.Homepage;
+
+
+					if (twitter != null || twitter.Count() > 0)
+					{
+						var url = twitter.FirstOrDefault().Url;
+						<a href="@url" target="_blank">
+							<img src="images/twitter.svg" alt="twitter" />
+						</a>
+					}
+					if (youtube != null || youtube.Count() > 0)
+					{
+						var url = youtube.FirstOrDefault().Url;
+						<a href="@url" target="_blank">
+							<img src="images/youtube.svg" alt="youtube" />
+						</a>
+					}
+					if (spotify != null || spotify.Count() > 0)
+					{
+						var url = spotify.FirstOrDefault().Url;
+						<a href="@url" target="_blank">
+							<img src="images/spotify.svg" alt="spotify" />
+						</a>
+					}
+
+					if (homepage != null || homepage.Count() > 0)
+					{
+						var url = homepage.FirstOrDefault().Url;
+						<a href="@url" target="_blank">
+							<img src="images/homepage.svg" alt="homepage" />
+						</a>
+					}
+					else if (website != null || website.Count() > 0)
+					{
+						var url = website.FirstOrDefault().Url;
+						<a href="@url" target="_blank">
+							<img src="images/website.svg" alt="website" />
+						</a>
+					}
+				}
+
+			</div>
+
+		}
+	</div>
+
+	@foreach (var e in ViewModel.Events)
+	{
+		var eventImage = e.Images?.FirstOrDefault()?.Url ?? "images/default-image.jpg";
+		<div class="d-flex align-items-center border p-2 mb-2" style="font-size: 0.85rem; line-height: 1.2;">
+			<img src="@eventImage" width="80" class="me-2" style="object-fit: cover;" />
+
+			<div>
+				<p>@(DateTime.TryParse(e.Dates.Start.LocalDate, out var date) ? date.ToString("dddd, MMMM d, yyyy") : "Unknown Date")</p>
+				<strong>@e.Name</strong>
+				<p>@e._embedded?.Venues?.FirstOrDefault()?.Name, @e._embedded?.Venues?.FirstOrDefault()?.City?.Name, @e._embedded?.Venues?.FirstOrDefault()?.State?.StateCode</p>
+			</div>
+		</div>
+	}
+}
+<br />
+<br />
+<br />
+<button @onclick="GoBack" class="back-button">
+	Back
+</button>
+
+<style>
+	.back-button {
+		position: fixed;
+		bottom: 20px;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 9999;
+		padding: 0.5rem 1.5rem;
+		font-size: 1rem;
+		font-weight: bold;
+		background-color: #007bff;
+		color: white;
+		border: none;
+		border-radius: 25px;
+		box-shadow: 0px 4px 10px rgba(0,0,0,0.25);
+		cursor: pointer;
+		transition: background-color 0.3s;
+	}
+
+		.back-button:hover {
+			background-color: #0056b3;
+		}
+</style>
+
+@code {
+	[Parameter] public string Name { get; set; } = "";
+
+	private EventViewModel ViewModel = new();
+
+	protected override async Task OnInitializedAsync()
+	{
+		var attractions = await TicketmasterService.SearchAttractionsAsync(Name);
+		var attraction = attractions.FirstOrDefault();
+		if (attraction != null)
+		{
+			ViewModel.EventName = attraction.Name;
+			ViewModel.ExternalLinks = attraction.ExternalLinks;
+			ViewModel.Events = await TicketmasterService.SearchEventsByAttractionIdAsync(attraction.Id);
+		}
+	}
+
+	private void GoBack()
+	{
+		NavigationManager.NavigateTo("/");
+	}
+}

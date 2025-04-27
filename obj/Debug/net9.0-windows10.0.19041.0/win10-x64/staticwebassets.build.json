@@ -1,0 +1,4102 @@
+{
+  "Version": 1,
+  "Hash": "S76bRt3cFjSCnwIvGPlaNdjkTbnETK4Q/dUNqzbh6/8=",
+  "Source": "TicketMaster",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TicketMaster\\wwwroot",
+      "Source": "TicketMaster",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\48ca6oxwaj-8inm30yfxf.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fbl5ivwo6k",
+      "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\7jz8d61lzp-7mjniuan2w.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/youtube#[.{fingerprint=7mjniuan2w}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5segquak2z",
+      "Integrity": "1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ajhp2e91n2-3dcf50pq3x.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/et_logo_horizontal#[.{fingerprint=3dcf50pq3x}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lxc5egpe1g",
+      "Integrity": "ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\bmbl8lph2b-u9i007jpvw.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/twitter#[.{fingerprint=u9i007jpvw}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5z4547j1e1",
+      "Integrity": "cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\cuedbjroxo-aotz1rfze9.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/homepage#[.{fingerprint=aotz1rfze9}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jxpyll0kmo",
+      "Integrity": "x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\d0i1766qcq-yavmuz49gg.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "TicketMaster#[.{fingerprint=yavmuz49gg}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ua16nn7fje",
+      "Integrity": "Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ew8fxoayb8-bpk8xqwxhs.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n422kv52tm",
+      "Integrity": "R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f2deq2xllg-heopdzugz4.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/not_found_frame_33408#[.{fingerprint=heopdzugz4}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2uw3g3zsc7",
+      "Integrity": "+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gba6egz417-yavmuz49gg.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "TicketMaster#[.{fingerprint=yavmuz49gg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ua16nn7fje",
+      "Integrity": "Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hty4ojqt46-5ouiihc0rh.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "images/spotify#[.{fingerprint=5ouiihc0rh}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jo155spp56",
+      "Integrity": "w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kfs7rqmxfx-di18gc0nyx.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint=di18gc0nyx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tjp6vrllv7",
+      "Integrity": "J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zkfgtbhhea-k1ovd9ogb0.gz",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint=k1ovd9ogb0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "23k7lmxlqi",
+      "Integrity": "kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css",
+      "SourceId": "TicketMaster",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "TicketMaster#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "yavmuz49gg",
+      "Integrity": "+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css",
+      "SourceId": "TicketMaster",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "TicketMaster#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "yavmuz49gg",
+      "Integrity": "+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "di18gc0nyx",
+      "Integrity": "W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/et_logo_horizontal#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3dcf50pq3x",
+      "Integrity": "qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\et_logo_horizontal.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/homepage#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aotz1rfze9",
+      "Integrity": "BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\homepage.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/not_found_frame_33408#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "heopdzugz4",
+      "Integrity": "Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\not_found_frame_33408.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/spotify#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ouiihc0rh",
+      "Integrity": "O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\spotify.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/twitter#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9i007jpvw",
+      "Integrity": "freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\twitter.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/youtube#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7mjniuan2w",
+      "Integrity": "D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\youtube.svg"
+    },
+    {
+      "Identity": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html",
+      "SourceId": "TicketMaster",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1ovd9ogb0",
+      "Integrity": "ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kfs7rqmxfx-di18gc0nyx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574052813"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kfs7rqmxfx-di18gc0nyx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kfs7rqmxfx-di18gc0nyx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000574052813"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1741"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W8biDx5xIdqKJEV+fNZcLMHlVzP1vyBZZghM2aS3s+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.di18gc0nyx.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\kfs7rqmxfx-di18gc0nyx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di18gc0nyx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J94O3Dp8q23Lu2cesZD6km6OvSPQz4UXTTT4oE/3Cbg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ew8fxoayb8-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041853262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ew8fxoayb8-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ew8fxoayb8-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041853262"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\48ca6oxwaj-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\48ca6oxwaj-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ew8fxoayb8-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R7coRMNVQvV7NHp7XgXq9fFyS3ZSedshBggCSXEST/I="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\48ca6oxwaj-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013350065"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\48ca6oxwaj-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.3dcf50pq3x.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ajhp2e91n2-3dcf50pq3x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000391542678"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dcf50pq3x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/et_logo_horizontal.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.3dcf50pq3x.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dcf50pq3x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/et_logo_horizontal.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.3dcf50pq3x.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ajhp2e91n2-3dcf50pq3x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dcf50pq3x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/et_logo_horizontal.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ajhp2e91n2-3dcf50pq3x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000391542678"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qd7CQjIX8bShsMApAToIGnVlKu0IqjFLiwKJ9OzslGI="
+        }
+      ]
+    },
+    {
+      "Route": "images/et_logo_horizontal.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\ajhp2e91n2-3dcf50pq3x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ue4Vd0Kr0Z4YDa/a0LN0cnURrqlz0GNwrQis5gCeEpI="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.aotz1rfze9.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\cuedbjroxo-aotz1rfze9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000425531915"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aotz1rfze9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepage.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.aotz1rfze9.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aotz1rfze9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepage.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.aotz1rfze9.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\cuedbjroxo-aotz1rfze9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aotz1rfze9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/homepage.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\cuedbjroxo-aotz1rfze9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000425531915"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BuKmtMaziBuXDol2zesKwZZY0EP/0a7gRe6wyIQhKdM="
+        }
+      ]
+    },
+    {
+      "Route": "images/homepage.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\cuedbjroxo-aotz1rfze9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x2DVHMrwG7oZHc5J/LOJ66o/PUKMsVI/0ocpgcV+E8E="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.heopdzugz4.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f2deq2xllg-heopdzugz4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000202347228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4941"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "heopdzugz4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/not_found_frame_33408.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.heopdzugz4.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "heopdzugz4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/not_found_frame_33408.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.heopdzugz4.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f2deq2xllg-heopdzugz4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "heopdzugz4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/not_found_frame_33408.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f2deq2xllg-heopdzugz4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000202347228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4941"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz/hyOPnAvTegju3mDqevo7k0E9PyxE2re92hUwE/H8="
+        }
+      ]
+    },
+    {
+      "Route": "images/not_found_frame_33408.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\f2deq2xllg-heopdzugz4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vRCWLODcEcQHfcVoza2XHgDCn/l7tsrbdPfcgUZm2I="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.5ouiihc0rh.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hty4ojqt46-5ouiihc0rh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001492537313"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ouiihc0rh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spotify.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.5ouiihc0rh.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ouiihc0rh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spotify.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.5ouiihc0rh.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hty4ojqt46-5ouiihc0rh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ouiihc0rh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/spotify.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hty4ojqt46-5ouiihc0rh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001492537313"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O54c5P0gorm44ST/TmEcCH4EZxI/qFhxNSg0aPpZSa8="
+        }
+      ]
+    },
+    {
+      "Route": "images/spotify.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\hty4ojqt46-5ouiihc0rh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3z3nh5uHv1R0x5qZGo6+Htl2kAq7+fZeUc6goc2/4w="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\bmbl8lph2b-u9i007jpvw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003717472119"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\bmbl8lph2b-u9i007jpvw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.u9i007jpvw.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\bmbl8lph2b-u9i007jpvw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003717472119"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9i007jpvw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/twitter.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.u9i007jpvw.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9i007jpvw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/twitter.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-freTUJlKYOu2oyqSUf6oxhVPeXpTUFMiZLVmNARFlaI="
+        }
+      ]
+    },
+    {
+      "Route": "images/twitter.u9i007jpvw.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\bmbl8lph2b-u9i007jpvw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9i007jpvw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/twitter.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cRjDQQJl0wZWQPWbbboBuZkB5oaN6drT0d6/NSg9fQ0="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.7mjniuan2w.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\7jz8d61lzp-7mjniuan2w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7mjniuan2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/youtube.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.7mjniuan2w.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7mjniuan2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/youtube.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.7mjniuan2w.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\7jz8d61lzp-7mjniuan2w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7mjniuan2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/youtube.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\7jz8d61lzp-7mjniuan2w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.svg",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D60doQ7kQMY6te0tkqoCGYqZgY49d7bIQQxc56VxijM="
+        }
+      ]
+    },
+    {
+      "Route": "images/youtube.svg.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\7jz8d61lzp-7mjniuan2w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1eCG/w+OTgxyaaXGGGEQrtQN00xAqhDCAxvLgUsgniQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zkfgtbhhea-k1ovd9ogb0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zkfgtbhhea-k1ovd9ogb0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI="
+        }
+      ]
+    },
+    {
+      "Route": "index.k1ovd9ogb0.html",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zkfgtbhhea-k1ovd9ogb0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002288329519"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1ovd9ogb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.k1ovd9ogb0.html",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1ovd9ogb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ePwrpwEskqt1OI02oMcXRblpnCK+ZuCaSsMFt7hMH6Q="
+        }
+      ]
+    },
+    {
+      "Route": "index.k1ovd9ogb0.html.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\zkfgtbhhea-k1ovd9ogb0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1ovd9ogb0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kgFo4YmZ3fq+Z4hlGD0kr/a5TfehXsOR7r4fbBPwbaI="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.bundle.scp.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gba6egz417-yavmuz49gg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002178649237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.bundle.scp.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gba6egz417-yavmuz49gg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.styles.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\d0i1766qcq-yavmuz49gg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002178649237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.styles.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.styles.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\d0i1766qcq-yavmuz49gg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gba6egz417-yavmuz49gg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002178649237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\TicketMaster.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\gba6egz417-yavmuz49gg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.styles.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\d0i1766qcq-yavmuz49gg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002178649237"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.styles.css",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\TicketMaster.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+hGyFAZQfcpZn3r5wKM66QTKJ62DIN+sOaHEJYCd540="
+        }
+      ]
+    },
+    {
+      "Route": "TicketMaster.yavmuz49gg.styles.css.gz",
+      "AssetFile": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\compressed\\d0i1766qcq-yavmuz49gg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 19:52:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yavmuz49gg"
+        },
+        {
+          "Name": "label",
+          "Value": "TicketMaster.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fq/g1J4bATl7gYwm9D05BR+JtKPoLHWT3LrqYlcnxps="
+        }
+      ]
+    }
+  ]
+}

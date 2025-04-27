@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\TicketMaster.styles.css",
+      "PackagePath": "staticwebassets\\TicketMaster.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\et_logo_horizontal.svg",
+      "PackagePath": "staticwebassets\\images\\et_logo_horizontal.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\homepage.svg",
+      "PackagePath": "staticwebassets\\images\\homepage.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\not_found_frame_33408.svg",
+      "PackagePath": "staticwebassets\\images\\not_found_frame_33408.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\spotify.svg",
+      "PackagePath": "staticwebassets\\images\\spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\twitter.svg",
+      "PackagePath": "staticwebassets\\images\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\images\\youtube.svg",
+      "PackagePath": "staticwebassets\\images\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\shanm\\Downloads\\TicketMaster-main\\TicketMaster-main\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.TicketMaster.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.TicketMaster.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.TicketMaster.props",
+      "PackagePath": "build\\TicketMaster.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.TicketMaster.props",
+      "PackagePath": "buildMultiTargeting\\TicketMaster.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.TicketMaster.props",
+      "PackagePath": "buildTransitive\\TicketMaster.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
